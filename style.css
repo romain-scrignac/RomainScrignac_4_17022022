@@ -195,7 +195,7 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .5);
+    color: rgba(0, 0, 0, .7);
 }
 
 .d-bloc .panel button:hover,
@@ -453,11 +453,18 @@ nav .caret {
     margin: 0 0 5px 5px;
 }
 
-.btn-d,
+.btn-d{
+    color: #FFF;
+}
+
+.btn-d {
+    background: rgba(0, 0, 0, 0.7);
+}
+
 .btn-d:hover,
 .btn-d:focus {
     color: #FFF;
-    background: rgba(0, 0, 0, .3);
+    background: rgba(0, 0, 0, 1);
 }
 
 button {
@@ -651,7 +658,6 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
 }
 
 .container {
