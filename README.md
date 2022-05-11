@@ -1,2 +1,2 @@
 # RomainScrignac_4_17022022
-Optimisation SEO et accessibilité du site web "La Panthère - Agence de Web Design"
+Projet 4 de la formation développeur web - Optimisation SEO et accessibilité d'un site web 
